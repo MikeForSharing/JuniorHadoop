@@ -1,4 +1,4 @@
-package STJoin;
+package mr.STJoin;
 import java.io.IOException;
 import java.util.Iterator;
 
