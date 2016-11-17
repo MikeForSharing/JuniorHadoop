@@ -1,0 +1,15 @@
+child parent
+tom lucy
+tom jack
+jone lucy
+jone jack
+lucy mary
+lucy ben
+jack alice
+jack jesse
+terry alice
+terry jesse
+philip terry
+philip alma
+mark terry
+mark alma
